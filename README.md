@@ -2,6 +2,10 @@
 
 O **EducaMais** é uma plataforma integrada de gestão escolar desenvolvida para conectar de forma eficiente e humanizada os educadores, a instituição de ensino e os pais/responsáveis. O ecossistema visa simplificar a rotina pedagógica e manter as famílias atualizadas em tempo real sobre o desenvolvimento diário dos alunos. Desenvolvido com interface responsiva em HTML5 e Tailwind CSS.
 
+## ✅ Teste o sistema no link abaixo:
+
+https://educamais-201309401571.us-west2.run.app/
+
 ---
 
 ## 📱 Telas e Fluxos do Sistema
